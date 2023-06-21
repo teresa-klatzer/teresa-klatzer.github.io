@@ -24,5 +24,5 @@ Since 2021, I am working on my PhD in Applied Mathematics on Bayesian Computatio
 
 I have received a MSc in Information and Computer Engineering (Telematics) in 2014 from Graz University of Technology on the topic of "Bi-level Optimization for Support Vector Machines". Since then, I have been working on my PhD studies until autumn 2017 at the Institute for Computer Graphics and Vision in the group of Thomas Pock. My research interests include the development of machine learning and optimization methods for applications in low-level image processing and computational photography. 
 
-### Random
+### random
 All models are wrong, but some are useful. (George E. P. Box)
