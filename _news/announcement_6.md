@@ -6,7 +6,5 @@ related_posts: false
 ---
 
 Our papers 
-###### Trainable Regularization for Multi-frame Superresolution
- and
- ###### Variational Networks: Connecting Variational Methods and Deep Learning
-  have been accepted to GCPR 2017! These are joint work with Erich Kobler, Daniel Soukup, Kerstin Hammernik and Thomas Pock.
+<b>Trainable Regularization for Multi-frame Superresolution</b>  and
+<b> Variational Networks: Connecting Variational Methods and Deep Learning </b> have been accepted to GCPR 2017! These are joint work with Erich Kobler, Daniel Soukup, Kerstin Hammernik and Thomas Pock.

@@ -5,7 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Oral presentation at the International Conference on Computational Photography (ICCP) 2016 for the paper
-Joint Demosaicing and Denoising Based on Sequential Energy Minimization. 
+Oral presentation at the International Conference on Computational Photography (ICCP) 2016 for the paper <b>Joint Demosaicing and Denoising Based on Sequential Energy Minimization</b>. 
 Teresa Klatzer, Kerstin Hammernik, Patrick Knöbelreiter, Thomas Pock
 <a href="https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_pock/iccp16_oral.pdf"> Slides </a> <a href="https://github.com/VLOGroup/joint-demosaicing-denoising-sem"> Code </a>

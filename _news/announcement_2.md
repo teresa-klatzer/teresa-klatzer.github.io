@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-17-19 Oct 2016: I am looking forward to attend the Google Computer Vision PhD summit in Zürich!
+I am looking forward to attend the 2 day Google Computer Vision PhD summit in Zürich!
