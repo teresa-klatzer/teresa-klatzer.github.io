@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD student at University of Edinburgh</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>PhD student at University of Edinburgh</a>. she/her. 
 
 profile:
   align: right
