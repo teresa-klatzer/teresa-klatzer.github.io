@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-03-10 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our sampling tutorials repository went live! Check it out <a href=https://github.com/MI2G/sampling-tutorials>here</a>.
