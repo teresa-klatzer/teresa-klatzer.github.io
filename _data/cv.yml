@@ -2,22 +2,22 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Teresa Klatzer
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th March 1990
     - name: Languages
-      value: English, German
+      value: English, German, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc
+      institution: Technical University of Graz, Graz, Austria
+      year: 2014
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
+        - title: Information and Computer Engineering (Telematics)
           contents:
             - Sub-description 1.
             - Sub-description 2.
