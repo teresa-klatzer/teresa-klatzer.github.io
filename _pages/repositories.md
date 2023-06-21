@@ -7,7 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-## GitHub users
 
 {% if site.repo_icons.enabled %}
  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
