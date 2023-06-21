@@ -2,19 +2,19 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: 
+description: Here is a list of my public Github repositories.
 nav: true
 nav_order: 3
 ---
 
 ## GitHub users
 
-## {% if site.data.repositories.github_users %}
-## <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-##  {% for user in site.data.repositories.github_users %}
-##    {% include repository/repo_user.html username=user %}
-##  {% endfor %}
-## </div>
+{% if site.data.repositories.github_users %}
+ <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for user in site.data.repositories.github_users %}
+    {% include repository/repo_user.html username=user %}
+  {% endfor %}
+ </div>
 
 ---
 
