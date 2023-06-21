@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our sampling tutorials repository went live! Check it out <a href=https://github.com/MI2G/sampling-tutorials>here</a>.
+Our sampling tutorials repository went live! Check it out <a href="https://github.com/MI2G/sampling-tutorials">here</a>.
