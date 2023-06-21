@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://teresa-klatzer.github.io/blog/sitemap.xml
+Sitemap: https://teresa-klatzer.github.io/about/sitemap.xml
