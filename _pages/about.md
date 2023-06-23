@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Since 2021, I am working on my PhD in Applied Mathematics on Bayesian Computation for Imaging Science. My supervisors are <a href="https://www.maths.ed.ac.uk/~kzygalak/">Konstantinos Zygalakis</a>, <a href="https://www.macs.hw.ac.uk/~mp71/about.html">Marcelo Pereyra</a> and <a href="https://researchportal.hw.ac.uk/en/persons/yoann-altmann">Yoann Altmann</a.> and I am currently affiliated with the <a href="https://www.macs.hw.ac.uk/~mp71/bloom.html">BLOOM</a> project. A list of publications can be found here or on my <a href='https://scholar.google.at/citations?hl=de&user=9NuwsCgAAAAJ'> Google Scholar profile</a>.
+Since 2021, I am working on my PhD in Applied Mathematics on Bayesian Computation for Imaging Science. My supervisors are <a href="https://www.maths.ed.ac.uk/~kzygalak/">Konstantinos Zygalakis</a>, <a href="https://www.macs.hw.ac.uk/~mp71/about.html">Marcelo Pereyra</a> and <a href="https://researchportal.hw.ac.uk/en/persons/yoann-altmann">Yoann Altmann</a> and I am currently affiliated with the <a href="https://www.macs.hw.ac.uk/~mp71/bloom.html">BLOOM</a> project. A list of publications can be found here or on my <a href='https://scholar.google.at/citations?hl=de&user=9NuwsCgAAAAJ'> Google Scholar profile</a>.
 
 My current **research interests** are at the intersection of imaging science, Bayesian computatin and numerical analysis, inverse problems, and machine learning. I am interested in the mathematical foundations of algorithms and methodology to solve problems in the field of imaging science.
 
