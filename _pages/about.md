@@ -9,9 +9,9 @@ profile:
   image: portrait2020.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Applied Mathematician</p>
-    <p>Imaging Science</p>
-    <p>Edinburgh, UK</p>
+    <p>Applied Mathematician. </p>
+    <p>Imaging Science. </p>
+    <p>Edinburgh, UK. </p>
     <p> 🌈</p>
 
 news: true  # includes a list of news items
