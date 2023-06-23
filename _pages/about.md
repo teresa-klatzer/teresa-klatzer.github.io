@@ -26,7 +26,7 @@ My current **research interests** are at the intersection of imaging science, Ba
 
 Before joining the project BLOOM, I have been working as a software project manager, product owner and agile coach. I have obtained a professional certification in coaching and counselling in Graz, Austria.
 
-I have received a MSc in Information and Computer Engineering (Telematics) in 2014 from Graz University of Technology on the topic of "Bi-level Optimization for Support Vector Machines". Since then, I have been working on my PhD studies until autumn 2017 at the Institute for Computer Graphics and Vision in the group of Thomas Pock, working on the project "Deep variational networks for low-level computer vision". My research topics included the development of machine learning and optimization methods for applications in low-level image processing and computational photography. 
+I have received a MSc in Information and Computer Engineering (Telematics) in 2014 from Graz University of Technology on the topic of "Bi-level Optimization for Support Vector Machines". Since then, I have been working on my PhD studies until autumn 2017 at the Institute for Computer Graphics and Vision in the group of <a href="https://www.tugraz.at/institute/icg/research/team-pock">Thomas Pock</a>, working on the project "Deep variational networks for low-level computer vision". My research topics included the development of machine learning and optimization methods for applications in low-level image processing and computational photography. 
 
 ### random
 All models are wrong, but some are useful. (George E. P. Box)
