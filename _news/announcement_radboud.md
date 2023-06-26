@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-I am attending the summer school on Quantifying Uncertainty: Prediction and Inverse Problems at Radboud University, 
+I attended the summer school on Quantifying Uncertainty: Prediction and Inverse Problems at Radboud University, 
 Netherlands, this week. It was a blast!
