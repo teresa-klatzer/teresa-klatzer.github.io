@@ -3,5 +3,6 @@ github_users:
   - teresa-klatzer
 
 github_repos:
+  - MI2G/accelerated-langevin-imla
   - MI2G/sampling-tutorials
   - VLOGroup/joint-demosaicing-denoising-sem
