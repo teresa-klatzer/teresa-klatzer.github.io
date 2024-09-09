@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-13
+date: 2024-05-28
 inline: true
 related_posts: false
 ---
 
-I'll be attending SIAM Imaging Atlanta from 28-31 May 2024! Mini-symposia acceptance has been announced and I am looking forward to speaking about my latest research and meeting you there!
+I am attending <href="https://www.siam.org/conferences-events/past-event-archive/is24/"> SIAM Imaging </a> Atlanta from 28-31 May 2024! My talk was part of the <href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79047"> mini-symposium </a> "Deep Unrolled Methods for Inverse Imaging Problems" and I am looking forward to speaking about my latest research and meeting you there!
