@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD student at University of Edinburgh</a>. she/her. <a hr
 
 profile:
   align: right
-  image: portrait2024.jpg
+  image: portrait_2024.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Computational Mathematician. </p>
