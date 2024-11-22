@@ -9,8 +9,7 @@ profile:
   image: portrait_2024.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Computational Statistics and ML. </p>
-    <p>Imaging Science. </p>
+    <p>Computational Statistics and ML in Imaging Science. </p>
     <p>Edinburgh, UK. </p>
     <p> 🌈</p>
 
