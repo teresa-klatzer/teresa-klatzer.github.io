@@ -16,5 +16,10 @@ nav_order: 1
 Why We Need More Women in Science</a>. An inspiring and truly helpful book to understand the unique challenges of being part of a minority group in science, about the fascinations of science careers and to find empowerment.
 - <a href="https://www.pictureascientist.com/"> Picture a scientist</a> is a compelling documentary about women scientists. Uncomfortable and empowering.
 
+### Outreach
+- I was very happy to present a stand-up comedy piece on “My life with inverse problems” as part of the Mathematics Showdown within the Edinburgh Science Festival in April 2023. 5 Mathematicians went on the challenge to explain their PhD topics to a general audience. Find a recording of my contribution on <a href="https://youtu.be/3X-fzkVcJyk"> Youtube </a> 🤓
+
+
+
 ### Implicit bias
 - How <a href="https://www.aauw.org/resources/article/iat/">implicit bias </a> affects even us women in science. Everyone seems biased against women leaders - uncovered by the implicit association test.
