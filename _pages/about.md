@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>PhD student at University of Edinburgh</a>. she/her. <a href="mailto:t.klatzer@sms.ed.ac.uk">E-mail</a> me if you want to chat.
 

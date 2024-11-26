@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /diversity/
-title: diversity
+title: Diversity
 description: Recommended reading and resources on diversity.
 nav: true
 nav_order: 1
