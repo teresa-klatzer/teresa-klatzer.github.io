@@ -25,6 +25,7 @@ Why We Need More Women in Science</a>. An inspiring and truly helpful book to un
 - How <a href="https://www.aauw.org/resources/article/iat/">implicit bias </a> affects even us women in science. Everyone seems biased against women leaders - uncovered by the implicit association test.
 
 ### Reading list
+- A valuable book on understanding and deconstructing privilege by Bob Pease <a href="https://www.goodreads.com/book/show/57623292-undoing-privilege"> Undoing Privilege: Unearned Advantage and Systemic Injustice in an Unequal World</a>.
 - One of my favourite german-writing feminist authors is <a href="https://www.emiliaroig.com/">Emilia Roig</a>. I recommend <a href="https://www.ullstein.de/werke/das-ende-der-ehe/hardcover/9783550202285">"Das Ende der Ehe"</a>. She speaks about her views on love in this <a href="https://chezmamapoule.com/emilia-roig-liebe/">podcast</a>.
 - Also in german: This collection of essays called <a href="https://www.goodreads.com/book/show/61379879-unlearn-patriarchy">"Unlearn Patriarchy"</a> meanwhile has a second edition.
 - Some classics by bell hooks: <a href="https://www.goodreads.com/book/show/17607.All_About_Love">All about love</a>, <a href="https://www.goodreads.com/book/show/32886.Communion">Communion</a>, and <a href="https://bellhooksbooks.com/product/the-will-to-change/">The Will to Change: Men, Masculinity, and Love</a>. 
