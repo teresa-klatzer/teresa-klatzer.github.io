@@ -3,28 +3,36 @@
   contents:
     - name: Full Name
       value: Teresa Klatzer
+    - name: Nationality
+      value: Austrian
     - name: Languages
       value: English, German, French
 
 - title: Education
   type: time_table
   contents:
-    - title: MSc
-      institution: Technical University of Graz, Graz, Austria
-      year: 2014
+  - title: Ph.D. in Applied and Computational Mathematics (ongoing)
+      institution: University of Edinburgh, UK
+      year: 2021-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Information and Computer Engineering (Telematics)
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Title: Bayesian computation for low-photon imaging"
+        - "Supervisors: Prof. Konstantinos Zygalakis & Prof. Marcelo Pereyra"
+    - title: MSc in Telematics (Computer and Information Engineering)
+      institution: Technical University of Graz, Austria
+      year: 2012-2014
       description:
-        - Description 1.
-        - Description 2.
+        - Majors in Computational Intelligence and Software Technology
+        - "Master's thesis: Bi-level Optimization for Support Vector Machines, supervised by Prof. Thomas Pock"
+    - title: BSc in Telematics (Computer and Information Engineering)
+      institution:  Technical University of Graz, Austria
+      year: 2008-2012
+      description:
+        - Interdisciplinary study: Information technology, electrical engineering, computer science
+    - title: Erasmus Program
+      institution: Universti\{'}e Lille 1 Science et Technologies, France
+      year: 2011-2012
+      description:
+        - "Master's project: Map Reduce Programming for Machine Learning Algorithms on Graphs, supervised by Marc Tommasi and Gemma C. Garriga at INRIA"
 
 - title: Experience
   type: time_table
