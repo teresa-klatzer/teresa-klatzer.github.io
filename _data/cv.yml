@@ -75,6 +75,32 @@
       description:
         - "Subjects: Machine Learning in Python, Calculus, Linear Algebra, Stochastic and Ordinary Differential Equations"
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+      - year: 2024
+      items: 
+        - SIAM Travel Award and Laura Wisewell Scholarship
+        - to attend SIAM Imaging Science, Atlanta, USA.
+    - year: 2023
+      items:
+        - Laura Wisewell Travel Scholarship
+        - to attend the MIA conference in Berlin anf the spring school in Bonn (Data-driven Inverse Problems in Biomedical Imaging)
+    - year: 2017
+      items:
+        - Best Paper Award
+        - German Conference on Pattern Recognition 2017, Basel, Switzerland.
+        - "Paper title: Variational Networks: Connecting Variational Methods and Deep Learning"
+    - year: 2015
+      items:
+        - Best Paper Award
+        - Computer Vision Winter Workshop 2015, Seggau, Austria.
+        - "Paper title: Continuous Hyper-parameter Learning for Support Vector Machines"
+    - year: 2012
+      items: 
+        - Scholarship of Excellence
+        - Graz University of Technology
+      
 
 - title: Summer Schools and Hackathons
   type: time_table
@@ -96,20 +122,7 @@
       year: 07/2015
     
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2024
-      name: SIAM Travel Award
-      value: to attend SIAM Imaging Science, Atlanta, USA.
-    - year: 2024
-      name: Laura Wisewell Travel Scholarship
-      value: to attend SIAM Imaging Science, Atlanta, USA.
-    - year: 2024
-      name: Laura Wisewell Travel Scholarship
-      value: to attend the MIA conference in Berlin anf the spring school in Bonn (Data-driven Inverse Problems in Biomedical Imaging)
 
-      
 
 - title: Academic Interests
   type: nested_list
