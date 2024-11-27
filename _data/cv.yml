@@ -79,9 +79,14 @@
 - title: Summer Schools and Hackathons
   type: time_table
   contents:
-    - title: "Spring school (invited): Data-driven Inverse Problems in Biomedical Imaging, Bonn, Germany"
+    - title: "BenchOpt Hackathon"
+      institution: hosted at Owkin, Google AI Hub and SCAI at Sorbonne University.
+      year: 06/2024
+    - title: "Spring school"
+      institution: "Data-driven Inverse Problems in Biomedical Imaging, Bonn, Germany"
       year: 04/2023
-    - title: "Summer school: Quantifying Uncertainty: Prediction and Inverse Problems, Radboud University, Nijmegen, The Netherlands."
+    - title: "Summer school"
+      institution: "Quantifying Uncertainty: Prediction and Inverse Problems, Radboud University, Nijmegen, The Netherlands."
       year: 08/2022
     
 
