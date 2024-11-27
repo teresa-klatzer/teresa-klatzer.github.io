@@ -23,14 +23,14 @@
       description:
         - Majors in Computational Intelligence and Software Technology
         - "Master's thesis: Bi-level Optimization for Support Vector Machines, supervised by Prof. Thomas Pock"
-        - "Project: State Estimation with Recurrent Neural Networks, supervised by Robert Legenstein"
+        - "Project: State Estimation with Recurrent Neural Networks, supervised by Prof. Robert Legenstein"
     - title: BSc in Telematics (Computer and Information Engineering)
       institution:  Technical University of Graz, Austria
       year: 2008-2012
       description:
-        - Interdisciplinary study: Information technology, electrical engineering, computer science
+        - "Interdisciplinary study: Information technology, electrical engineering, computer science"
     - title: Erasmus Program
-      institution: Universti\{'}e Lille 1 Science et Technologies, France
+      institution: Universit'e Lille 1 Science et Technologies, France
       year: 2011-2012
       description:
         - "Master's project: Map Reduce Programming for Machine Learning Algorithms on Graphs, supervised by Marc Tommasi and Gemma C. Garriga at INRIA"
