@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Teresa Klatzer
-    - name: Date of Birth
-      value: 14th March 1990
     - name: Languages
       value: English, German, French
 
@@ -71,13 +69,17 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - SIAM Travel Award &
+        - Laura Wisewell Travel Scholarship 
+        - to attend SIAM Conference on Imaging Science, Atlanta, USA.
+    - year: 2023
       items: 
-        - Max Planck Medal
+        - Laura Wisewell Travel Scholarship
+        - to attend Spring school in Bonn (Data-driven Inverse Problems in Biomedical Imaging)
+    - year: 2023
+      
 
 - title: Academic Interests
   type: nested_list
