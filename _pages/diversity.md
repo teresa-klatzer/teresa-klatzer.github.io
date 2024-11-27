@@ -15,6 +15,7 @@ nav_order: 1
 - Athene Donald wrote this inspiring book: <a href="https://global.oup.com/academic/product/not-just-for-the-boys-9780192893406?cc=gb&lang=en&"> Not Just for the Boys.
 Why We Need More Women in Science</a>. An inspiring and truly helpful book to understand the unique challenges of being part of a minority group in science, about the fascinations of science careers and to find empowerment.
 - <a href="https://www.pictureascientist.com/"> Picture a scientist</a> is a compelling documentary about women scientists. Uncomfortable and empowering.
+- I recommend the book by the mathematician Eugenia Cheng <a href="https://www.goodreads.com/book/show/53054836-x-y">"x + y: A Mathematician's Manifesto for Rethinking Gender"</a>. She offers a new perspective on categorizing behavior of humans in a way completely removed from considerations of gender, inspired by the field of category theory.
 
 ### Outreach
 - I was very happy to present a stand-up comedy piece on “My life with inverse problems” as part of the Mathematics Showdown within the Edinburgh Science Festival in April 2023. 5 Mathematicians went on the challenge to explain their PhD topics to a general audience. Find a recording of my contribution on <a href="https://youtu.be/3X-fzkVcJyk"> Youtube </a> 🤓
