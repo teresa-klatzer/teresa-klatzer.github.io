@@ -52,15 +52,15 @@
   type: time_table
   contents:
     - year: 2024
-      items: 
-        - SIAM Travel Award &
-        - Laura Wisewell Travel Scholarship 
-        - to attend SIAM Conference on Imaging Science, Atlanta, USA.
-    - year: 2023
-      items: 
-        - Laura Wisewell Travel Scholarship
-        - to attend Spring school in Bonn (Data-driven Inverse Problems in Biomedical Imaging)
-    - year: 2023
+      name: SIAM Travel Award
+      value: to attend SIAM Imaging Science, Atlanta, USA.
+    - year: 2024
+      name: Laura Wisewell Travel Scholarship
+      value: to attend SIAM Imaging Science, Atlanta, USA.
+    - year: 2024
+      name: Laura Wisewell Travel Scholarship
+      value: to attend the MIA conference in Berlin anf the spring school in Bonn (Data-driven Inverse Problems in Biomedical Imaging)
+
       
 
 - title: Academic Interests
