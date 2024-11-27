@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: https://drive.google.com/file/d/12ZJqvw0BCut8MnzssWWbqn3i_wwj5gCn/view?usp=sharing
+cv_pdf: CV_Sept_24__academic_.pdf
 ---
