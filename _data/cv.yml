@@ -105,8 +105,8 @@
 - title: Summer Schools and Hackathons
   type: time_table
   contents:
-    - title: "[BenchOpt Hackathon](https://notes.inria.fr/s/XDBWzL8ID#)"
-      institution: hosted at Owkin, Google AI Hub and SCAI at Sorbonne University.
+    - title: "BenchOpt Hackathon"
+      institution: organised by Thomas Moreau (INRIA) at Owkin, Google AI Hub and SCAI at Sorbonne University.
       year: 06/2024
     - title: "Spring school"
       institution: "Data-driven Inverse Problems in Biomedical Imaging, Bonn, Germany"
