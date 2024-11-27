@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-  - title: Ph.D. in Applied and Computational Mathematics (ongoing)
+    - title: Ph.D. in Applied and Computational Mathematics (ongoing)
       institution: University of Edinburgh, UK
       year: 2021-2025
       description:
