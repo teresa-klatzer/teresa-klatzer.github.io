@@ -33,29 +33,58 @@
       institution: Université Lille 1 Science et Technologies, France
       year: 2011-2012
       description:
-        - "Master's project: Map Reduce Programming for Machine Learning Algorithms on Graphs, supervised by Marc Tommasi and Gemma C. Garriga at INRIA"
+        - "Project: Map Reduce Programming for Machine Learning Algorithms on Graphs, supervised by Marc Tommasi and Gemma C. Garriga at INRIA"
 
 - title: Experience
   type: time_table
   contents:
-    - title: a
-      institution: a
-      year: 1933 - 1955
+    - title: Teaching Assistant
+      institution: Graz University of Technology, Austria
+      year: 2010-2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - "Subjects: Convex Optimisation, Analysis, Computer and communication networks"
+
+    - title: Research Assistant
+      institution: Institute of Computer Graphics and Vision, Graz University of Technology, Austria
+      year: 2014-2017
+      description:
+        - Team member of the Vision, Learning and Optimization Group, led by Prof. Thomas Pock. 
+        - "Research topics: Variational networks, deep regularization, convex and non-convex optimization and deep learning, learning activation functions, bi-level optimization, algorithm unrolling, applications to standard inverse imaging problems, joint denoising and demosaicing or super-resolution problems, joint reconstruction and classification problems, medical image reconstruction problems"
+
+    - title: Project Manager for Digital Business Solutions
+      institution: Scoop and Spoon GmbH, Graz, Austria
+      year: 2018
+      description:
+        - Team member of the Vision, Learning and Optimization Group, led by Prof. Thomas Pock. 
+        - "Project lead for digital products, responsibility for budget, time, project quality and controlling, mediation between teams and all stakeholders."
+
+    - title: Product Owner
+      institution: Denovo GmbH, Graz, Austria
+      year: 2018-2020
+      description:
+        - "Project lead for several digitization projects, responsibility for product backlog and maximisation of business value, mediation between scrum team and clients, active management of client relations, business development, team development."
+
+    - title: Product Owner and Agile Coach
+      institution: Black Tusk GmbH, Graz, Austria
+      year: 2020-2021
+      description:
+        - "Project lead for several (medical) software products, portfolio management, customer interviews and requirement engineering, general management and regulatory affairs for medical devices."
+
+    - title: University Tutor
+      institution: University of Edinburgh, UK
+      year: 2021-now
+      description:
+        - "Subjects: Machine Learning in Python, Calculus, Linear Algebra, Stochastic and Ordinary Differential Equations"
 
 
-- title: Open Source Projects
+- title: Summer Schools and Hackathons
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: "Spring school (invited): Data-driven Inverse Problems in Biomedical Imaging, Bonn, Germany"
+      year: 04/2023
+    - title: "Summer school: Quantifying Uncertainty: Prediction and Inverse Problems, Radboud University, Nijmegen, The Netherlands."
+      year: 08/2022
+    
 
 - title: Honors and Awards
   type: time_table
