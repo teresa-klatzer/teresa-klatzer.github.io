@@ -76,7 +76,6 @@
         - Project lead for digital products, responsibility for budget, time, project quality and controlling
         - Mediation between teams and all stakeholders
 
-
     - title: Research Assistant
       institution: Institute of Computer Graphics and Vision, Graz University of Technology, Austria
       year: 2014-2017
@@ -87,12 +86,11 @@
         - Developing algorithms using convex and non-convex optimization strategies, bi-level optimization and algorithm unrolling
         - Co-developing learning frameworks using theano, tensorflow, pytorch and C++/CUDA
         
-
     - title: Teaching Assistant
-          institution: Graz University of Technology, Austria
-          year: 2010-2015
-          description:
-            - "Subjects: Convex Optimisation, Analysis, Computer and communication networks"
+      institution: Graz University of Technology, Austria
+      year: 2010-2015
+      description:
+        - "Subjects: Convex Optimisation, Analysis, Computer and communication networks"
 
 
 
