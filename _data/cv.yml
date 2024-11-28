@@ -41,7 +41,7 @@
   contents:
     - title: Postgraduate Reseacher
       institution: University of Edinburgh
-      year: 2021 - 2025 (ongoing()
+      year: 2021 - now
       description:
         - Developed algorithms to accelerate MCMC sampling for implicit models using PyTorch and Matlab
         - State-of-the-art results for reconstructing photon-starved imaging data providing uncertainty quantification
