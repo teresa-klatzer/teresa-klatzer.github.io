@@ -14,5 +14,6 @@ years: [2024, 2023, 2022, 2021, 2018, 2017, 2016, 2015]
 {%- for yy in page.month %}
 {% bibliography -f talks_posters.bib -q @*[month={{yy}}]* %}
 {% endfor %}
+{% endfor %}
 </div>
 
