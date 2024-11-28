@@ -100,7 +100,7 @@
     - year: 2024
       items: 
         - SIAM Travel Award and Laura Wisewell Scholarship
-        - to attend SIAM Imaging Science, Atlanta, USA.
+        - to attend SIAM Imaging Science, Atlanta, USA
     - year: 2023
       items:
         - Laura Wisewell Travel Scholarship
@@ -108,12 +108,12 @@
     - year: 2017
       items:
         - Best Paper Award
-        - German Conference on Pattern Recognition 2017, Basel, Switzerland.
+        - German Conference on Pattern Recognition 2017, Basel, Switzerland
         - "Paper title: Variational Networks: Connecting Variational Methods and Deep Learning"
     - year: 2015
       items:
         - Best Paper Award
-        - Computer Vision Winter Workshop 2015, Seggau, Austria.
+        - Computer Vision Winter Workshop 2015, Seggau, Austria
         - "Paper title: Continuous Hyper-parameter Learning for Support Vector Machines"
     - year: 2012
       items: 
@@ -125,19 +125,19 @@
   type: time_table
   contents:
     - title: "BenchOpt Hackathon"
-      institution: organised by Thomas Moreau (INRIA) at Owkin, Google AI Hub and SCAI at Sorbonne University.
+      institution: organised by Thomas Moreau (INRIA) at Owkin, Google AI Hub and SCAI at Sorbonne University
       year: 06/2024
     - title: "Spring school"
       institution: "Data-driven Inverse Problems in Biomedical Imaging, Bonn, Germany"
       year: 04/2023
     - title: "Summer school"
-      institution: "Quantifying Uncertainty: Prediction and Inverse Problems, Radboud University, Nijmegen, The Netherlands."
+      institution: "Quantifying Uncertainty: Prediction and Inverse Problems, Radboud University, Nijmegen, The Netherlands"
       year: 08/2022
     - title: "Summer School"
-      institution: "Mathematical and Numerical Methods in Image Processing, Berlin Mathematical School, Germany."
+      institution: "Mathematical and Numerical Methods in Image Processing, Berlin Mathematical School, Germany"
       year: 08/2016
     - title: "Machine Learning Summer school"
-      institution: Max Planck Institute for Intelligent Systems Tübingen, Germany.
+      institution: Max Planck Institute for Intelligent Systems Tübingen, Germany
       year: 07/2015
     
 
