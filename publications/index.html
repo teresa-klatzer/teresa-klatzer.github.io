@@ -170,6 +170,8 @@
 
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://arxiv.org/abs/2308.09460" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
             <a href="https://github.com/MI2G/accelerated-langevin-imla" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
             <a href="https://drive.google.com/file/d/1953o5bBHZv4T6jpVDFmfh0mcrqxa8EQ3/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Slides</a>
@@ -180,7 +182,11 @@
               <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
           </div>
 
-          <!-- Hidden bibtex block -->
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>This paper presents a new accelerated proximal Markov chain Monte Carlo methodology to perform Bayesian inference in imaging inverse problems with an underlying convex geometry. The proposed strategy takes the form of a stochastic relaxed proximal-point iteration that admits two complementary interpretations. For models that are smooth or regularised by Moreau-Yosida smoothing, the algorithm is equivalent to an implicit midpoint discretisation of an overdamped Langevin diffusion targeting the posterior distribution of interest. This discretisation is asymptotically unbiased for Gaussian targets and shown to converge in an accelerated manner for any target that is κ-strongly log-concave (i.e., requiring in the order of κ−−√ iterations to converge, similarly to accelerated optimisation schemes), comparing favorably to [M. Pereyra, L. Vargas Mieles, K.C. Zygalakis, SIAM J. Imaging Sciences, 13,2 (2020), pp. 905-935] which is only provably accelerated for Gaussian targets and has bias. For models that are not smooth, the algorithm is equivalent to a Leimkuhler-Matthews discretisation of a Langevin diffusion targeting a Moreau-Yosida approximation of the posterior distribution of interest, and hence achieves a significantly lower bias than conventional unadjusted Langevin strategies based on the Euler-Maruyama discretisation. For targets that are κ-strongly log-concave, the provided non-asymptotic convergence analysis also identifies the optimal time step which maximizes the convergence speed. The proposed methodology is demonstrated through a range of experiments related to image deconvolution with Gaussian and Poisson noise, with assumption-driven and data-driven convex priors.</p>
+          </div>
+<!-- Hidden bibtex block -->
           <div class="bibtex hidden">
             <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">klatzer2024accelerated</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{Accelerated Bayesian imaging by relaxed proximal-point Langevin sampling}</span><span class="p">,</span>
@@ -240,6 +246,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://arxiv.org/abs/1704.00447" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           </div>
           
@@ -360,7 +367,7 @@
           <em>In Pattern Recognition. GCPR 2017</em>, 2017
         </div>
         <div class="periodical">
-          German Conference on Pattern Recognition (GCPR) 2017 ; Conference date: 13-09-2017 Through 15-09-2017
+          
         </div>
 
           <!-- Links/Buttons -->
