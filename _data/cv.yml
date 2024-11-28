@@ -18,7 +18,7 @@
         - "Title: Bayesian computation for low-photon imaging"
         - "Supervisors: Prof. Konstantinos Zygalakis & Prof. Marcelo Pereyra"
     - title: MSc in Telematics (Computer and Information Engineering)
-      institution: Technical University of Graz, Austria
+      institution: Graz University of Technology, Austria
       year: 2012-2014
       description:
         - with distinction
@@ -26,7 +26,7 @@
         - "Master's thesis: Bi-level Optimization for Support Vector Machines, supervised by Prof. Thomas Pock"
         - "Project: State Estimation with Recurrent Neural Networks, supervised by Prof. Robert Legenstein"
     - title: BSc in Telematics (Computer and Information Engineering)
-      institution:  Technical University of Graz, Austria
+      institution:  Graz University of Technology, Austria
       year: 2008-2012
       description:
         - "Interdisciplinary study: Information technology, electrical engineering, computer science"
@@ -39,42 +39,62 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Teaching Assistant
-      institution: Graz University of Technology, Austria
-      year: 2010-2015
+    - title: Postgraduate Reseacher
+      institution: University of Edinburgh
+      year: 2021 - 2025 (ongoing()
       description:
-        - "Subjects: Convex Optimisation, Analysis, Computer and communication networks"
-
-    - title: Research Assistant
-      institution: Institute of Computer Graphics and Vision, Graz University of Technology, Austria
-      year: 2014-2017
-      description:
-        - Team member of the Vision, Learning and Optimization Group, led by Prof. Thomas Pock. 
-        - "Research topics: Variational networks, deep regularization, convex and non-convex optimization and deep learning, learning activation functions, bi-level optimization, algorithm unrolling, applications to standard inverse imaging problems, joint denoising and demosaicing or super-resolution problems, joint reconstruction and classification problems, medical image reconstruction problems"
-
-    - title: Project Manager for Digital Business Solutions
-      institution: Scoop and Spoon GmbH, Graz, Austria
-      year: 2018
-      description:
-        - "Project lead for digital products, responsibility for budget, time, project quality and controlling, mediation between teams and all stakeholders."
-
-    - title: Product Owner
-      institution: Denovo GmbH, Graz, Austria
-      year: 2018-2020
-      description:
-        - "Project lead for several digitization projects, responsibility for product backlog and maximisation of business value, mediation between scrum team and clients, active management of client relations, business development, team development."
-
-    - title: Product Owner and Agile Coach
-      institution: Black Tusk GmbH, Graz, Austria
-      year: 2020-2021
-      description:
-        - "Project lead for several (medical) software products, portfolio management, customer interviews and requirement engineering, general management and regulatory affairs for medical devices."
+        - Developed algorithms to accelerate MCMC sampling for implicit models using PyTorch and Matlab
+        - State-of-the-art results for reconstructing photon-starved imaging data providing uncertainty quantification
+        - Convergence results for convex data-driven ML priors
 
     - title: University Tutor
       institution: University of Edinburgh, UK
       year: 2021-now
       description:
         - "Subjects: Machine Learning in Python, Calculus, Linear Algebra, Stochastic and Ordinary Differential Equations"
+  
+    - title: Product Owner and Agile Coach
+      institution: Black Tusk GmbH, Graz, Austria
+      year: 2020-2021
+      description:
+        - Project lead for several (medical) software products
+        - Portfolio management, customer interviews and requirement engineering
+        - General management and regulatory affairs for medical devices
+
+    - title: Product Owner
+      institution: Denovo GmbH, Graz, Austria
+      year: 2018-2020
+      description:
+        - Project lead for several digitization projects, responsibility for product backlog and maximization of business value
+        - Leading the roll-out of an AI tool for waste management
+        - Active management of client relations and business development, scrum and team development
+
+    - title: Project Manager for Digital Business Solutions
+      institution: Scoop and Spoon GmbH, Graz, Austria
+      year: 2018
+      description:
+        - Project lead for digital products, responsibility for budget, time, project quality and controlling
+        - Mediation between teams and all stakeholders
+
+
+    - title: Research Assistant
+      institution: Institute of Computer Graphics and Vision, Graz University of Technology, Austria
+      year: 2014-2017
+      description:
+        - Researcher in the Computer Vision, Learning and Optimization Group, led by Prof. Thomas Pock
+        - Development of variational networks including learnt activation functions
+        - Solving a wide range of image reconstruction problems (joint denoising and demosaicing or super-resolution problems, joint reconstruction and classification problems, medical image reconstruction problems)
+        - Developing algorithms using convex and non-convex optimization strategies, bi-level optimization and algorithm unrolling
+        - Co-developing learning frameworks using theano, tensorflow, pytorch and C++/CUDA
+        
+
+    - title: Teaching Assistant
+          institution: Graz University of Technology, Austria
+          year: 2010-2015
+          description:
+            - "Subjects: Convex Optimisation, Analysis, Computer and communication networks"
+
+
 
 - title: Honors and Awards
   type: time_table
