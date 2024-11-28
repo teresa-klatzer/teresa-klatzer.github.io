@@ -36,7 +36,7 @@
       description:
         - "Project: Map Reduce Programming for Machine Learning Algorithms on Graphs, supervised by Marc Tommasi and Gemma C. Garriga at INRIA"
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Postgraduate Reseacher
@@ -45,14 +45,41 @@
       description:
         - Developed algorithms to accelerate MCMC sampling for implicit models using PyTorch and Matlab
         - State-of-the-art results for reconstructing photon-starved imaging data providing uncertainty quantification
-        - Convergence results for convex data-driven ML priors
+        - Convergence results for convex and data-driven ML priors
+        - Fostering interdisciplinary collaboration with researchers in the fields of computer science, mathematics, and statistics
+        - Running large-scale experiments using server infrastructure and benchmarking
+        - Dissemination of research through publishing of scientific papers with source code, regular presenting at international meetings 
 
+   
+    - title: Research Assistant
+      institution: Institute of Computer Graphics and Vision, Graz University of Technology, Austria
+      year: 2014-2017
+      description:
+        - Researcher in the Computer Vision, Learning and Optimization Group, led by Prof. Thomas Pock
+        - Development of variational networks including learnt activation functions
+        - Solving a wide range of image reconstruction problems (joint denoising and demosaicing or super-resolution problems, joint reconstruction and classification problems, medical image reconstruction problems)
+        - Developing algorithms using convex and non-convex optimization strategies, bi-level optimization and algorithm unrolling
+        - Co-developing learning frameworks using theano, tensorflow, pytorch and C++/CUDA
+        
+
+- title: Teaching Experience
+  type: time_table
+  contents:
     - title: University Tutor
       institution: University of Edinburgh, UK
       year: 2021-now
       description:
         - "Subjects: Machine Learning in Python, Calculus, Linear Algebra, Stochastic and Ordinary Differential Equations"
-  
+          
+    - title: Teaching Assistant
+      institution: Graz University of Technology, Austria
+      year: 2010-2015
+      description:
+        - "Subjects: Convex Optimisation, Analysis, Computer and communication networks"
+
+- title: Other Experiences
+  type: time_table
+  contents:
     - title: Product Owner and Agile Coach
       institution: Black Tusk GmbH, Graz, Austria
       year: 2020-2021
@@ -75,23 +102,6 @@
       description:
         - Project lead for digital products, responsibility for budget, time, project quality and controlling
         - Mediation between teams and all stakeholders
-
-    - title: Research Assistant
-      institution: Institute of Computer Graphics and Vision, Graz University of Technology, Austria
-      year: 2014-2017
-      description:
-        - Researcher in the Computer Vision, Learning and Optimization Group, led by Prof. Thomas Pock
-        - Development of variational networks including learnt activation functions
-        - Solving a wide range of image reconstruction problems (joint denoising and demosaicing or super-resolution problems, joint reconstruction and classification problems, medical image reconstruction problems)
-        - Developing algorithms using convex and non-convex optimization strategies, bi-level optimization and algorithm unrolling
-        - Co-developing learning frameworks using theano, tensorflow, pytorch and C++/CUDA
-        
-    - title: Teaching Assistant
-      institution: Graz University of Technology, Austria
-      year: 2010-2015
-      description:
-        - "Subjects: Convex Optimisation, Analysis, Computer and communication networks"
-
 
 
 - title: Honors and Awards
