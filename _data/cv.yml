@@ -52,8 +52,7 @@
       year: 2014-2017
       description:
         - Conducted research in the Computer Vision, Learning and Optimization Group, led by Prof Thomas Pock
-        - Contributed to the development of variational networks to solve a wide range of image reconstruction problems, including joint
-        denoising and demosaicing, super-resolution, joint reconstruction and classification and medical image reconstruction
+        - Contributed to the development of variational networks to solve a wide range of image reconstruction problems, including joint denoising and demosaicing, super-resolution, joint reconstruction and classification and medical image reconstruction
         - Developed algorithms using convex and non-convex optimization strategies, bi-level optimization and algorithm unrolling
         - Co-developed learning frameworks using Theano, TensorFlow, PyTorch and C++/CUDA
         
