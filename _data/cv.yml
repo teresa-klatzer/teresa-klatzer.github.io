@@ -17,15 +17,14 @@
       description:
         - "Title: Bayesian computation for low-photon imaging"
         - "Supervisors: Prof. Konstantinos Zygalakis & Prof. Marcelo Pereyra"
-    - title: MSc in Telematics (Computer and Information Engineering)
+    - title: MSc in Telematics (with destinction)
       institution: Graz University of Technology, Austria
       year: 2012-2014
       description:
-        - with distinction
         - majors in Computational Intelligence and Software Technology
         - "Master's thesis: Bi-level Optimization for Support Vector Machines, supervised by Prof. Thomas Pock"
         - "Project: State Estimation with Recurrent Neural Networks, supervised by Prof. Robert Legenstein"
-    - title: BSc in Telematics (Computer and Information Engineering)
+    - title: BSc in Telematics
       institution:  Graz University of Technology, Austria
       year: 2008-2012
       description:
@@ -43,23 +42,20 @@
       institution: University of Edinburgh
       year: 2021-now
       description:
-        - Developed algorithms to accelerate MCMC sampling for implicit models using PyTorch and Matlab
-        - State-of-the-art results for reconstructing photon-starved imaging data providing uncertainty quantification
-        - Convergence results for convex and data-driven ML priors
-        - Fostering interdisciplinary collaboration with researchers in the fields of computer science, mathematics, and statistics
-        - Running large-scale experiments using server infrastructure and benchmarking
-        - Dissemination of research through publishing of scientific papers with source code, regular presenting at international meetings 
-
-   
+        - Developed algorithms for efficient Bayesian computation incorporating machine learning models using PyTorch and Matlab
+        - Achieved state-of-the-art results for reconstructing photon-starved imaging data with integrated uncertainty quantification
+        - Contributed to convergence proofs for convex and data-driven machine learning priors
+        - Executed large-scale experiments using server infrastructure, benchmarked results, and published source code for reproducibility
+          
     - title: Research Assistant
       institution: Institute of Computer Graphics and Vision, Graz University of Technology, Austria
       year: 2014-2017
       description:
-        - Researcher in the Computer Vision, Learning and Optimization Group, led by Prof. Thomas Pock
-        - Development of variational networks including learnt activation functions
-        - Solving a wide range of image reconstruction problems (joint denoising and demosaicing or super-resolution problems, joint reconstruction and classification problems, medical image reconstruction problems)
-        - Developing algorithms using convex and non-convex optimization strategies, bi-level optimization and algorithm unrolling
-        - Co-developing learning frameworks using theano, tensorflow, pytorch and C++/CUDA
+        - Conducted research in the Computer Vision, Learning and Optimization Group, led by Prof Thomas Pock
+        - Contributed to the development of variational networks to solve a wide range of image reconstruction problems, including joint
+        denoising and demosaicing, super-resolution, joint reconstruction and classification and medical image reconstruction
+        - Developed algorithms using convex and non-convex optimization strategies, bi-level optimization and algorithm unrolling
+        - Co-developed learning frameworks using Theano, TensorFlow, PyTorch and C++/CUDA
         
 
 - title: Teaching Experience
@@ -77,31 +73,32 @@
       description:
         - "Subjects: Convex Optimisation, Analysis, Computer and communication networks"
 
-- title: Other Experiences
+- title: Leadership Experience
   type: time_table
   contents:
     - title: Product Owner and Agile Coach
       institution: Black Tusk GmbH, Graz, Austria
       year: 2020-2021
       description:
-        - Project lead for several (medical) software products
-        - Portfolio management, customer interviews and requirement engineering
-        - General management and regulatory affairs for medical devices
+        - Directed the development of medical software products, ensuring alignment with DIN EN ISO 13485 regulatory standards
+        - Managed product and portfolio strategies for interoperability solutions in healthcare, leveraging the HL7 FHIR standard
+        - Conducted customer interviews and performed comprehensive requirements engineering
+        - Facilitated Agile practices within the organization, mentoring teams in Scrum and Agile practices
 
     - title: Product Owner
       institution: Denovo GmbH, Graz, Austria
       year: 2018-2020
       description:
-        - Project lead for several digitization projects, responsibility for product backlog and maximization of business value
-        - Leading the development and roll-out of an AI tool for waste management
-        - Active management of client relations and business development, scrum and team development
-
+        - Directed several digitization projects within a fixed-price Agile framework, using Scrum practices
+        - Managed product backlogs, prioritized features to maximize business value, and fostered strong client relationships
+        - Led the development and deployment of an AI-driven tool for waste management
     - title: Project Manager for Digital Business Solutions
       institution: Scoop and Spoon GmbH, Graz, Austria
       year: 2018
       description:
-        - Project lead for digital products, responsibility for budget, time, project quality and controlling
-        - Mediation between teams and all stakeholders
+        - Led the development of software products, with responsibility for budget, time, project quality and controlling
+        - Led a pilot project integrating voice assistant technology for marketing
+        - Acted as key liaison between teams and all stakeholders
 
 
 - title: Honors and Awards
