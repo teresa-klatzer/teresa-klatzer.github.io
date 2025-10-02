@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 # ### random
 # All models are wrong, but some are useful. (George E. P. Box)
 ---
-Currently postdoctoral researcher at the University of Edinburgh in the group of Konstantinos Zygalakis. My postdoctoral research is funded by the Doctoral Prize Fellowship from the <a href="https://www.probai.ac.uk/"> Prob_AI Hub</a>, and I focus on integrating generative AI with statistical methodologies to advance reliable scientific imaging. I am particularly interested in the mathematical foundations of algorithms at the intersection of Bayesian computation, numerical analysis, inverse problems, and machine learning.
+Currently postdoctoral researcher at the University of Edinburgh in the group of Konstantinos Zygalakis. My postdoctoral research is funded by the Doctoral Prize Fellowship from the <a href="https://www.probai.ac.uk/"> Prob_AI Hub</a>, and I focus on integrating generative AI with statistical methodologies to advance reliable scientific imaging. I am particularly interested in the mathematical foundations of algorithms at the intersection of machine learning, Bayesian computation, numerical analysis, and imaging inverse problems.
 
 I have completed my PhD in Applied and Computational Mathematics at the University of Edinburgh in fall 2025. My PhD research was funded by the <a href="https://www.macs.hw.ac.uk/~mp71/bloom.html">BLOOM</a> project, supervised by <a href="https://www.maths.ed.ac.uk/~kzygalak/">Konstantinos Zygalakis</a>, <a href="https://www.macs.hw.ac.uk/~mp71">Marcelo Pereyra</a> and <a href="https://researchportal.hw.ac.uk/en/persons/yoann-altmann">Yoann Altmann</a>. My PhD thesis is titled "Bayesian imaging with data-driven priors".
 

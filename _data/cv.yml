@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Applied and Computational Mathematics (ongoing)
+    - title: Ph.D. in Applied and Computational Mathematics 
       institution: University of Edinburgh, UK
       year: 2021-2025
       description:
@@ -38,9 +38,16 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Postdoctoral Reseacher
+      institution: University of Edinburgh
+      year: 2025-now
+      description:
+        - Funded by the Doctoral Prize Fellowship from the Prob_AI Hub
+        - Mathematical foundations of probabilistic AI for scientific imaging
+        
     - title: Postgraduate Reseacher
       institution: University of Edinburgh
-      year: 2021-now
+      year: 2021-2025
       description:
         - Developed algorithms for efficient Bayesian computation incorporating machine learning models using PyTorch and Matlab
         - Achieved state-of-the-art results for reconstructing photon-starved imaging data with integrated uncertainty quantification
