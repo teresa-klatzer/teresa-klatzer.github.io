@@ -9,7 +9,7 @@ profile:
   image: portrait_2025.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Bayesian computation and ML in imaging science. </p>
+    <p>Bayesian computation and AI in imaging science. </p>
     <p>Edinburgh, UK. </p>
     <p> 🌈</p>
 
