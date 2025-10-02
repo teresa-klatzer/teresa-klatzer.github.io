@@ -44,7 +44,7 @@
       description:
         - Funded by the Doctoral Prize Fellowship from the Prob_AI Hub
         - Mathematical foundations of probabilistic AI for scientific imaging
-        
+
     - title: Postgraduate Reseacher
       institution: University of Edinburgh
       year: 2021-2025
@@ -69,7 +69,7 @@
   contents:
     - title: University Tutor
       institution: University of Edinburgh, UK
-      year: 2021-now
+      year: 2021-2025
       description:
         - "Subjects: Machine Learning in Python, Calculus, Linear Algebra, Stochastic and Ordinary Differential Equations"
           
