@@ -112,12 +112,8 @@
   contents:
       - year: 2024
       items: 
-        - WiML Travel Award and complimentary registration at NeurIPS
-        - to present my work in Vancouver, CA
-    - year: 2024
-      items: 
-        - SIAM Travel Award and Laura Wisewell Scholarship
-        - to attend SIAM Imaging Science, Atlanta, USA
+        - WiML Travel Award and complimentary registration at NeurIPS to present my work in Vancouver, CA
+        - SIAM Travel Award and Laura Wisewell Scholarship to attend SIAM Imaging Science, Atlanta, USA
     - year: 2023
       items:
         - Laura Wisewell Travel Scholarship
