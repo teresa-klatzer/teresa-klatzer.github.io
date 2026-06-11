@@ -6,7 +6,7 @@ subtitle: <a href='#'>Postdoc at University of Edinburgh</a>. she/her. <a href="
 
 profile:
   align: right
-  image: portrait_2025.jpg
+  image: portrait_2026.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Bayesian computation and AI in imaging science. </p>
