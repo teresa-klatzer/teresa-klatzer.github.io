@@ -1,18 +1,24 @@
 ---
 ---
+
 @article{klatzer2025efficientbayesiancomputationusing,
-      title={Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems}, 
-      author={Teresa Klatzer and Savvas Melidonis and Marcelo Pereyra and Konstantinos C. Zygalakis},
-      year={2025},
-      abstract = {This paper introduces a novel plug-and-play (PnP) Langevin sampling methodology for Bayesian inference in low-photon Poisson imaging problems, a challenging class of problems with significant applications in astronomy, medicine, and biology. PnP Langevin sampling algorithms offer a powerful framework for Bayesian image restoration, enabling accurate point estimation as well as advanced inference tasks, including uncertainty quantification and visualization analyses, and empirical Bayesian inference for automatic model parameter tuning. However, existing PnP Langevin algorithms are not well-suited for low-photon Poisson imaging due to high solution uncertainty and poor regularity properties, such as exploding gradients and non-negativity constraints. To address these challenges, we propose two strategies for extending Langevin PnP sampling to Poisson imaging models: (i) an accelerated PnP Langevin method that incorporates boundary reflections and a Poisson likelihood approximation and (ii) a mirror sampling algorithm that leverages a Riemannian geometry to handle the constraints and the poor regularity of the likelihood without approximations. The effectiveness of these approaches is demonstrated through extensive numerical experiments and comparisons with state-of-the-art methods.},
-      eprint={2503.16222},
-      journal={SIAM Journal on Imaging Sciences (in press)},
-      archivePrefix={arXiv},
-      primaryClass={stat.CO},
-      bibtex_show = {true},
-      selected={true}, 
-      url={https://arxiv.org/abs/2503.16222}, 
+author = {Klatzer, Teresa and Melidonis, Savvas and Pereyra, Marcelo and Zygalakis, Konstantinos C.},
+title = {Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems},
+journal = {SIAM Journal on Imaging Sciences},
+volume = {19},
+number = {2},
+pages = {1325-1363},
+year = {2026},
+doi = {10.1137/25M1736062},
+bibtex_show = {true},
+selected = {true},
+url={https://arxiv.org/abs/2503.16222}, 
+,
+    abstract = {This paper studies plug-and-play (PnP) Langevin sampling strategies for Bayesian inference in low-photon Poisson imaging problems, a challenging class of problems with significant applications in astronomy, medicine, and biology. PnP Langevin sampling offers a powerful framework for Bayesian image restoration, enabling accurate point estimation as well as advanced inference tasks, including uncertainty quantification and visualization analyses, and empirical Bayesian inference for automatic model parameter tuning. Herein, we leverage and adapt recent developments in this framework to tackle challenging imaging problems involving weakly informative Poisson data. Existing PnP Langevin algorithms are not well suited for low-photon Poisson imaging due to high solution uncertainty and poor regularity properties, such as exploding gradients and nonnegativity constraints. To address these challenges, we explore two strategies for extending Langevin PnP sampling to Poisson imaging models: (i) an accelerated PnP Langevin method that incorporates boundary reflections and a Poisson likelihood approximation, and (ii) a mirror sampling algorithm that leverages a Riemannian geometry to handle the constraints and the poor regularity of the likelihood without approximations. The effectiveness of these approaches is evaluated and contrasted through extensive numerical experiments and comparisons with state-of-the-art methods. The source code accompanying this paper is available at https://github.com/freyyia/pnp-langevin-poisson. }
 }
+
+
+
 @article{klatzer2024accelerated,
   title={Accelerated Bayesian imaging by relaxed proximal-point Langevin sampling},
   author={Klatzer, Teresa and Dobson, Paul and Altmann, Yoann and Pereyra, Marcelo and Sanz-Serna, Jes{\'u}s Mar{\'\i}a and Zygalakis, Konstantinos C},
