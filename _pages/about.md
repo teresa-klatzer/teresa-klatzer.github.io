@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 # ### random
 # All models are wrong, but some are useful. (George E. P. Box)
 ---
-Currently postdoctoral researcher at Lancaster University under the MARS programme (Mathematics for AI in Real-world Systems). Previously I was holding a Doctoral Prize Fellowship from the <a href="https://www.probai.ac.uk/"> Prob_AI Hub</a> at the University of Edinburgh with <a href="https://webhomes.maths.ed.ac.uk/~kzygalak/">Konstantinos C. Zygalakis</a>, focusing on mathematical foundations of probabilistic AI for scientific imaging at the intersection of machine learning, Bayesian computation, numerical analysis, and imaging inverse problems.
+Currently postdoctoral researcher at Lancaster University under the MARS programme (Mathematics for AI in Real-world Systems). Previously I was holding a Doctoral Prize Fellowship from the <a href="https://www.probai.ac.uk/"> Prob_AI Hub</a> at the University of Edinburgh with <a href="https://webhomes.maths.ed.ac.uk/~kzygalak/">Konstantinos C. Zygalakis</a>, focusing on mathematical foundations of probabilistic AI for scientific imaging. My research interests lie at the intersection of machine learning, Bayesian computation, numerical analysis, and imaging inverse problems.
 
 I have completed my PhD in Applied and Computational Mathematics at the University of Edinburgh in fall 2025. My PhD research was funded by the <a href="https://www.macs.hw.ac.uk/~mp71/bloom.html">BLOOM</a> project, supervised by <a href="https://scholar.google.com/citations?user=XqwQVdEAAAAJ&hl=en">Konstantinos Zygalakis</a>, <a href="https://www.macs.hw.ac.uk/~mp71">Marcelo Pereyra</a>. My PhD thesis is titled "Bayesian imaging with data-driven priors".
 
