@@ -38,9 +38,16 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Senior Research Associate
+      institution: Lancaster University
+      year: 2026-now
+      description:
+        - Funded by MARS (Mathematics for AI in Real-world Systems)
+        - School of Mathematical Sciences
+
     - title: Postdoctoral Reseacher
       institution: University of Edinburgh
-      year: 2025-now
+      year: 2025-2026
       description:
         - Funded by the Doctoral Prize Fellowship from the Prob_AI Hub
         - Mathematical foundations of probabilistic AI for scientific imaging
